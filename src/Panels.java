@@ -1159,7 +1159,7 @@ public class Panels
 		JLabel creditsTitle = new JLabel(image);
 		JLabel creditsSpace = new JLabel("");
 		JLabel credits1 = new JLabel("Thanks for playing!");
-		JLabel credits2 = new JLabel("Design and Development - Joseph Torres");
+		JLabel credits2 = new JLabel("Design and Development - Madelyn Torres");
 		JLabel credits3 = new JLabel("Music - Various Sources and Artists");
 		JLabel credits4 = new JLabel("Images - Google Images");
 		JLabel credits5 = new JLabel("Special thanks to those who tested it, and Mr. Schultz for inspiring it!");
