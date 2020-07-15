@@ -63,7 +63,7 @@ public class Panels
 		title.setFont(new Font("Serif", Font.PLAIN, 45));
 		JLabel mainPic = new JLabel(image);
 		JLabel versionNum = new JLabel("v1.1.0");
-		JLabel credit = new JLabel("Created and developed by Joseph Torres");
+		JLabel credit = new JLabel("Created and developed by Madelyn Torres");
 		
 		Box panel = Box.createVerticalBox();
 		panel.add(title);
